@@ -1,3 +1,7 @@
 Avengers
 Sonic 2
+<<<<<<< HEAD
 Transformer
+=======
+Titanic
+>>>>>>> 3b7a3e858ba38eef98e190fe9d4da04906a38a80
